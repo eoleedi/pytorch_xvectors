@@ -1,0 +1,3 @@
+torch==1.4.0
+kaldiio==2.15.1
+kaldi-python-io==1.0.4
